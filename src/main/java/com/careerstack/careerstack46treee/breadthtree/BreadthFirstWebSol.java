@@ -1,4 +1,4 @@
-package com.trgr.careerstack46treee.breadthtree;
+package com.careerstack.careerstack46treee.breadthtree;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

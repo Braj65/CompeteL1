@@ -1,8 +1,8 @@
-package com.trgr.careerstack46treee.depthtree;
+package com.careerstack.careerstack46treee.depthtree;
 
-import com.trgr.careerstack46treee.breadthtree.BreadthFirstWebSol;
-import com.trgr.careerstack46treee.breadthtree.Link;
-import com.trgr.careerstack46treee.breadthtree.Node;
+import com.careerstack.careerstack46treee.breadthtree.BreadthFirstWebSol;
+import com.careerstack.careerstack46treee.breadthtree.Link;
+import com.careerstack.careerstack46treee.breadthtree.Node;
 
 //https://www.youtube.com/watch?v=9RHO6jU--GU
 public class DepthFirstInorder {
